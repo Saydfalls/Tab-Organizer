@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Organizer",
+  "description": "Visualize and Organize your tabs!",
+  "version": "1.0",
+  "icons": {
+    "16": "/images/ChromeExtProjIcon16.png",
+    "48": "/images/ChromeExtProjIcon48.png",
+    "128": "/images/ChromeExtProjIcon128.png"
+  },
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": {
+        "16": "/images/ChromeExtProjIcon16.png",
+        "48": "/images/ChromeExtProjIcon48.png",
+        "128": "/images/ChromeExtProjIcon128.png"
+    }
+  }
+}
